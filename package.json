@@ -1,0 +1,31 @@
+{
+  "name": "prerender-compressed-file-cache",
+  "version": "0.0.1",
+  "description": "Prerender plugin for caching in file system using zlib for compression",
+  "main": "index.js",
+  "dependencies": {
+    "node-fs": "~0.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ravenlp/prerender-compressed-file-cache"
+  },
+  "keywords": [
+    "prerender",
+    "compressed",
+    "gzip",
+    "cache",
+    "seo",
+    "node"
+  ],
+  "author": "ravenlp",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/ravenlp/prerender-compressed-file-cache/issues"
+  },
+  "homepage": "https://github.com/ravenlp/prerender-compressed-file-cache"
+}
