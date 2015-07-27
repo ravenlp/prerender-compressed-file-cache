@@ -1,5 +1,9 @@
 /node_modules/*
 
+# IDE generated files #
+######################
+.idea
+
 # OS generated files #
 ######################
 .DS_Store
